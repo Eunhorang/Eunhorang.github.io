@@ -1,0 +1,3 @@
+:HL["/lee-eunho-football-portfolio/_next/static/chunks/0o68ph.t1qc-t.css","style"]
+:HL["/lee-eunho-football-portfolio/images/hero-stadium.webp","image",{"fetchPriority":"high"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"wjFUUw707a6omnMTPTg4k"}
