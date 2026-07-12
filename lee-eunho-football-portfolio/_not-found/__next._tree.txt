@@ -1,2 +1,2 @@
-:HL["/lee-eunho-football-portfolio/_next/static/chunks/0o68ph.t1qc-t.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"01a9PThVY0uFNDGB3zOVd"}
+:HL["/lee-eunho-football-portfolio/_next/static/chunks/0.q-bi77re6b..css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"Sj0ffsGzVAjkq6KfPALcy"}
